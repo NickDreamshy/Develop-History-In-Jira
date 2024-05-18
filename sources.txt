@@ -1,0 +1,17 @@
+Name: prj33-123
+Build#: #####
+Version: #.#
+Date: 14/05/2024 10:28:35
+VCS URL: ssh://git@example.com:/prj33-123.git
+Commit hash: 123456789a1s3bb8814fffaaa18765d6d67fffa5
+Dep: lib
+VCS URL: ssh://git@example.com:/lib.git
+Commit hash: 123456789a1s3bb8814fffaaa18765d6d67fffa5
+Dep: lib1
+VCS URL: ssh://git@example.com:/lib1.git
+Commit hash: 123456789a1s3bb8814fffaaa18765d6d67fffa5
+Dep: lib2
+VCS URL: ssh://git@example.com:/lib2.git
+Commit hash: 123456789a1s3bb8814fffaaa18765d6d67fffa5
+Tools: cygwin64-tools #.#.##
+FTP URL: https://************************/.tar.xz
