@@ -1,6 +1,6 @@
 import os
 
-path = r"sources.txt"
+path = r"sources1.txt"
 
 
 # add searching by build number
